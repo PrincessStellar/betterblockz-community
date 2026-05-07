@@ -3,6 +3,13 @@
 This repository is for **translations only**.  
 If your contribution is not a language file, it does not belong here.
 
+## Select the Correct Version
+Before starting, ensure you are on the right branch for your Minecraft version:
+- 26.1: For NeoForge 26.1+
+- 1.20-1.21: For Minecraft 1.20.1 – 1.21.1
+
+- Switch branches using the dropdown menu on GitHub.
+
 ## Allowed Contributions
 - New language files
 - Fixes or improvements to existing translations
