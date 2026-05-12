@@ -3,6 +3,7 @@
 "tooltip.z_core.hold_shift_info": "Hold [SHIFT] for info",
 "tooltip.z_core.control.selection": "• Press %s: Variant Selection Screen",
 "tooltip.z_core.control.cycle": "• %s + Mouse Wheel Scroll: Quick Cycle",
+"tooltip.z_core.control.reset": "• %s + Mouse Wheel Button: Reset",
 "key.category.z_core.main": "Z-Core",
 "key.z_core.scroll_modifier": "Mouse Wheel Scroll Modifier",
 "key.z_core.selection_screen": "Variant Selection Screen"
