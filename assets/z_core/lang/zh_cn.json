@@ -1,0 +1,10 @@
+{
+  "tooltip.z_core.cycle_variants": "循环变种：",
+  "tooltip.z_core.hold_shift_info": "按住[SHIFT]查看信息",
+  "tooltip.z_core.control.selection": "• 按下%s：变种选择界面",
+  "tooltip.z_core.control.cycle": "•%s+鼠标滚轮：快速循环",
+  "tooltip.z_core.control.reset": "•%s+鼠标中键：重置",
+  "key.category.z_core.main": "Z-核心",
+  "key.z_core.scroll_modifier": "鼠标滚轮修改键",
+  "key.z_core.selection_screen": "变种选择界面"
+}
